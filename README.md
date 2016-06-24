@@ -1,0 +1,2 @@
+# AdViewPager
+ViewPager左右无限轮播实现，可用作Binner导航或广告
