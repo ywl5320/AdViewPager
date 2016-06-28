@@ -1,7 +1,14 @@
 # AdViewPager
-ViewPager左右无限轮播实现，可用作Binner导航或广告<br/><br/>
-实例图片：<br/>
-![image](https://github.com/wanliyang1990/AdViewPager/blob/master/imgs/adviewpager.gif)<br/>
+###ViewPager左右无限轮播实现，可用作Binner导航或广告<br/>
+####1张图片
+![image](https://github.com/wanliyang1990/AdViewPager/blob/master/imgs/ad1.gif)<br/>
+####2张图片
+![image](https://github.com/wanliyang1990/AdViewPager/blob/master/imgs/ad2.gif)<br/>
+####3张图片
+![image](https://github.com/wanliyang1990/AdViewPager/blob/master/imgs/ad3.gif)<br/>
+####4张图片
+![image](https://github.com/wanliyang1990/AdViewPager/blob/master/imgs/ad4.gif)<br/>
+
 在代码中只需添加几句就可以实现轮播功能<br/>
 
         //不带导航原点
