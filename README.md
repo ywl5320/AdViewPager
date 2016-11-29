@@ -1,5 +1,6 @@
 # AdViewPager
 ###ViewPager左右无限轮播实现，可用作Banner导航或广告<br/>
+####博客地址：http://blog.csdn.net/ywl5320/article/details/51867228
 ####1张图片
 ![image](https://github.com/wanliyang1990/AdViewPager/blob/master/imgs/ad1.gif)<br/>
 ####2张图片
