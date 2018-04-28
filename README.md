@@ -1,4 +1,5 @@
 # AdViewPager
+## [我的视频课程：《FFmpeg打造Android万能音频播放器》](https://edu.csdn.net/course/detail/6842)
 ## ViewPager左右无限轮播实现，可用作Banner导航或广告<br/>
 ## 博客地址：http://blog.csdn.net/ywl5320/article/details/51867228
 ## 1张图片
